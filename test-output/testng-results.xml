@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="73181" started-at="2020-06-02T04:39:14Z" finished-at="2020-06-02T04:40:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="73181" started-at="2020-06-02T04:39:14Z" finished-at="2020-06-02T04:40:27Z">
+      <class name="TestScripts.FL_Suite1">
+        <test-method status="PASS" signature="openBrowserUrl()[pri:0, instance:TestScripts.FL_Suite1@26be92ad]" name="openBrowserUrl" is-config="true" duration-ms="36203" started-at="2020-06-02T10:09:14Z" finished-at="2020-06-02T10:09:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowserUrl -->
+        <test-method status="PASS" signature="verifyLoginFunctionality()[pri:0, instance:TestScripts.FL_Suite1@26be92ad]" name="verifyLoginFunctionality" duration-ms="12546" started-at="2020-06-02T10:09:51Z" finished-at="2020-06-02T10:10:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginFunctionality -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestScripts.FL_Suite1@26be92ad]" name="closeBrowser" is-config="true" duration-ms="2073" started-at="2020-06-02T10:10:03Z" finished-at="2020-06-02T10:10:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="openBrowserUrl()[pri:0, instance:TestScripts.FL_Suite1@26be92ad]" name="openBrowserUrl" is-config="true" duration-ms="15812" started-at="2020-06-02T10:10:05Z" finished-at="2020-06-02T10:10:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowserUrl -->
+        <test-method status="PASS" signature="verifyPageTitle()[pri:0, instance:TestScripts.FL_Suite1@26be92ad]" name="verifyPageTitle" duration-ms="217" started-at="2020-06-02T10:10:21Z" finished-at="2020-06-02T10:10:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitle -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestScripts.FL_Suite1@26be92ad]" name="closeBrowser" is-config="true" duration-ms="6191" started-at="2020-06-02T10:10:21Z" finished-at="2020-06-02T10:10:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestScripts.FL_Suite1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
