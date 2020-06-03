@@ -41,7 +41,7 @@ public class FL_Suite1
 		
 	}
 	
-	@Test
+	@Test(priority=1)
 	public void verifyPageTitle()
 	{
 		HomePage home=PageFactory.initElements(driver, HomePage.class);
@@ -52,7 +52,7 @@ public class FL_Suite1
 		
 	}
 	
-	@Test
+	@Test(priority=2)
 	public void verifyLoginFunctionality()
 	{
 		HomePage home=PageFactory.initElements(driver, HomePage.class);
