@@ -22,6 +22,11 @@ public class test {
 	}
 	
 	@Test
+	public void test3(){
+		System.out.println("Hii Nitya");
+	}
+	
+	@Test
 	public void test2(){
 		System.out.println("Woo");
 	}
